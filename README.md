@@ -1,9 +1,11 @@
 # TextureCombiner
 
+![](Documentation~/Images/TextureCombiner_01.gif)
+
 Combine multiple textures into one!
 
 [WebGL](https://play.maxartz15.com/TextureCombiner/)  
-[Windows]()
+[Windows](https://github.com/maxartz15/TextureCombiner/releases)
 
 ## LICENSE
 
