@@ -4,7 +4,7 @@
 
 Combine multiple textures into one!
 
-[WebGL](https://play.maxartz15.com/TextureCombiner/)  
+[WebGL](https://maxartz15.github.io/TextureCombiner/)  
 [Windows](https://github.com/maxartz15/TextureCombiner/releases)
 
 ## LICENSE
