@@ -1,0 +1,16 @@
+{
+"companyName": "MaxKruf",
+"productName": "TextureCombiner",
+"productVersion": "0.1",
+"dataUrl": "TextureCombiner_WebGL.data.unityweb",
+"wasmCodeUrl": "TextureCombiner_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "TextureCombiner_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
